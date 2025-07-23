@@ -1,0 +1,62 @@
+Feature,Importance
+cat__status_no checking account,0.10533806
+cat__other_debtors_none,0.051516604
+cat__status_... >= 200 DM / salary for at least 1 year,0.0346964
+cat__other_installment_plans_none,0.03294199
+cat__credit_history_no credits taken/all credits paid back duly,0.02909697
+cat__other_debtors_guarantor,0.025506888
+cat__savings_100 <= ... < 500 DM,0.024297085
+cat__credit_history_critical account/other credits existing,0.023481878
+cat__credit_history_all credits at this bank paid back duly,0.023188083
+cat__savings_... < 100 DM,0.02286088
+cat__job_unemployed/unskilled - non-resident,0.022780785
+cat__housing_rent,0.022412632
+cat__purpose_car (new),0.021544628
+cat__employment_duration_4 <= ... < 7 years,0.021385215
+cat__purpose_car (used),0.018852768
+cat__purpose_domestic appliances,0.018573472
+cat__savings_unknown/no savings account,0.01723191
+cat__savings_... >= 1000 DM,0.017003732
+cat__status_... < 100 DM,0.016997358
+cat__job_management/self-employed/highly qualified employee/officer,0.016915504
+num__duration,0.016870141
+cat__personal_status_sex_male : single,0.016740365
+cat__purpose_retraining,0.016503714
+cat__employment_duration_unemployed,0.016301986
+cat__job_unskilled - resident,0.015584431
+cat__other_installment_plans_bank,0.015558682
+cat__housing_for free,0.015519406
+cat__property_real estate,0.0147686945
+cat__housing_own,0.014430931
+cat__credit_history_delay in paying off in the past,0.01418102
+num__age,0.013632106
+num__amount,0.013571909
+cat__personal_status_sex_female : divorced/separated/married,0.01353599
+cat__credit_history_existing credits paid back duly till now,0.0134844985
+num__present_residence,0.0132376095
+cat__property_unknown/no property,0.013199
+cat__employment_duration_... >= 7 years,0.013194988
+cat__savings_500 <= ... < 1000 DM,0.01304666
+cat__purpose_radio/television,0.012929755
+num__installment_rate,0.012752185
+cat__purpose_education,0.012506211
+num__number_credits,0.012296099
+cat__personal_status_sex_male : married/widowed,0.01112821
+cat__property_car or other,0.010935344
+cat__telephone_no,0.010022622
+cat__property_building society savings agreement/life insurance,0.0098678535
+cat__personal_status_sex_male : divorced/separated,0.009763364
+num__people_liable,0.009362161
+cat__job_skilled employee/official,0.009333805
+cat__purpose_others,0.009222827
+cat__employment_duration_1 <= ... < 4 years,0.007994522
+cat__foreign_worker_no,0.007922924
+cat__status_0 <= ... < 200 DM,0.007673889
+cat__employment_duration_... < 1 year,0.0067571774
+cat__other_installment_plans_stores,0.005020494
+cat__other_debtors_co-applicant,0.0045255823
+cat__telephone_yes,0.0
+cat__purpose_furniture/equipment,0.0
+cat__purpose_business,0.0
+cat__purpose_repairs,0.0
+cat__foreign_worker_yes,0.0
