@@ -1,12 +1,13 @@
-An end-to-end machine learning application that predicts whether a customer is likely to default on credit using the German Credit Dataset. The model is trained using XGBoost and made explainable with SHAP. A Streamlit UI allows users to input customer data and see risk predictions with visual explanations.
+# Credit Risk Assessment App
 
-Features
+A machine learning web application that predicts whether a customer is a **credit risk** (likely to default) using **XGBoost** and **SHAP** explainability. Built with **Streamlit** and trained on the German Credit dataset.
 
-Predict whether a customer is a credit risk (0 = default, 1 = safe)
+---
 
-Uses an XGBoost classifier trained on cleaned and preprocessed data
+## Features
 
-Automatically handles numeric and categorical features via pipelines
-
-SHAP explanations for model transparency (waterfall plots)
-
+- Binary classification (`0` = default, `1` = good credit)
+- Fully pipelined preprocessing (numerical + categorical)
+- XGBoost classifier with SHAP-based feature attribution
+- Interactive Streamlit UI with real-time prediction and explanation
+- Feature importance & stress testing included
